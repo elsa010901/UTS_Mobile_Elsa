@@ -1,5 +1,5 @@
-# Aplikasi Informasi Tentang Rukun Sholat
-*
+# tampilan aplikasi order sederhana
+
 *Nama*    : Elsa
 *NPM*     : 20753077
 *Jurusan* : Ekonomi dan Bisnis
@@ -7,8 +7,8 @@
 *POLITEKNIK NEGERI LAMPUNG*
 
 ## Deskripsi Aplikasi
-Aplikasi yang saya buat ini yaitu aplikasi order yang berisi login, tampilan dll.
-
+Aplikasi yang saya buat ini yaitu aplikasi order yang berisi login,galeri,kontak.dll.
+yang pertama disini saat tampilan awal pada aplikasi nya kita harus login terlebih dahulu dengan memasukkan username dan password.
 
 
 ## Features
@@ -19,4 +19,4 @@ Pada aplikasi ini saya mengimplementasikan :
 - VIEW & VIEW GROUP
 
 
-## TERIMA KASIHt
+## TERIMAKASIH
